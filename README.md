@@ -3,7 +3,8 @@
 ## Overview
 This repository contains the code and trained model for a waste classification system that categorizes waste into three main classes: Biodegradable, Non-Biodegradable, and Recyclable. The model is built upon the Inception V3 architecture, which is fine-tuned for our specific dataset.
 
-![Training and Validation Loss and Accuracy](image.png)
+![image](https://github.com/iamzayd/Waste-Classification-/assets/91972048/5898d137-c219-43e3-b855-fc95eb1016ce)
+
 
 ## Model Details
 The Inception V3 model has been trained using a custom dataset to classify waste into the following classes:
